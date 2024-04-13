@@ -1,0 +1,40 @@
+.SliderCard
+  padding-left: 20px
+  padding-right: 20px
+  cursor: grab
+  position: relative
+  &:hover
+    .preview
+      transform: scale(1.3)
+    .expandButton
+      width: fit-content
+
+  .imageContainer
+    border-radius: 10px
+    margin-bottom: 20px
+    height: 250px
+
+  .preview
+    object-fit: contain
+    width: 100%
+    height: 100%
+    transition: 0.3s
+
+  .description
+    display: flex
+    gap: 50px
+    justify-content: space-between
+    flex-align: center
+
+  .expandButton
+    padding: 0
+    width: 0
+    overflow: hidden
+    position: absolute
+    top: 0
+    right: 0
+    background-color: transparent
+    border: 0
+    color: gray
+    &:hover
+      color: black

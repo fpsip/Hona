@@ -1,0 +1,41 @@
+.content
+  h1
+    font-size: 1.5em
+    margin-bottom: 20px
+
+  .grid
+    display: grid
+    max-width: 100%
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr)
+    gap: 50px
+
+    .image
+      background-color: black
+      border-radius: 10px
+      overflow: hidden
+      width: 100%
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px
+
+    .plates
+      display: grid
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr)
+      gap: 10px
+
+    .info
+      h2
+        font-size: 1.25em
+        margin-bottom: 20px
+
+.plate
+  background-color: black
+  min-height: 30px
+  width: 100%
+  height: 100%
+  transition: 0.2s
+  cursor: pointer
+  filter: opacity(75%) grayscale(20%)
+  &:hover
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px
+    transform: scale(1.1)
+    filter: none
+
