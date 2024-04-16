@@ -10,8 +10,8 @@ const App = () => {
     <div className={styles.App}>
       <BrowserRouter>
         <Routes>
-          <Route path="gallery/" element={<Main />} />
-          <Route path="gallery/preview/:modelId" element={<Model />} />
+          <Route path="Hona/" element={<Main />} />
+          <Route path="Hona/preview/:modelId" element={<Model />} />
         </Routes>
       </BrowserRouter>
     </div>

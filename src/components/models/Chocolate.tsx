@@ -18,7 +18,7 @@ type GLTFResult = GLTF & {
 
 
 function Chocolate(props: JSX.IntrinsicElements['group']) {
-  const { nodes, materials } = useGLTF('/gallery/models/chocolate.gltf') as GLTFResult;
+  const { nodes, materials } = useGLTF('/Hona/models/chocolate.gltf') as GLTFResult;
   return (
     <group {...props} dispose={null}>
       <group position={[0.035, 0.811, -0.045]} scale={[0.581, 0.581, 0.58]}>

@@ -21,7 +21,7 @@ type GLTFResult = GLTF & {
 }
 
 function Breakfast(props: JSX.IntrinsicElements['group']) {
-  const { nodes, materials } = useGLTF('/gallery/models/breakfast.glb') as GLTFResult
+  const { nodes, materials } = useGLTF('/Hona/models/breakfast.glb') as GLTFResult
   return (
     <group {...props} dispose={null}>
       <group position={[0, 0.028, 0]} scale={[3.094, 2.946, 3.094]}>

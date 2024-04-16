@@ -19,7 +19,7 @@ type GLTFResult = GLTF & {
 }
 
 function Jelly(props: JSX.IntrinsicElements['group']) {
-  const { nodes, materials } = useGLTF('/gallery/models/jelly.gltf') as GLTFResult
+  const { nodes, materials } = useGLTF('/Hona/models/jelly.gltf') as GLTFResult
   return (
     <group {...props} dispose={null}>
       <group position={[0.069, 1.421, 0.034]} scale={[0.814, 0.952, 0.814]}>

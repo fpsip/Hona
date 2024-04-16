@@ -17,7 +17,7 @@ type GLTFResult = GLTF & {
 };
 
 function Strawberry(props: JSX.IntrinsicElements['group']) {
-  const { nodes, materials } = useGLTF('/gallery/models/strawberry.gltf') as GLTFResult
+  const { nodes, materials } = useGLTF('/Hona/models/strawberry.gltf') as GLTFResult
   return (
     <group {...props} dispose={null}>
       <group position={[0.035, 0.711, -0.045]} scale={[0.642, 0.642, 0.64]}>

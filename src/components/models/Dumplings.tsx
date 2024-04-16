@@ -24,7 +24,7 @@ type GLTFResult = GLTF & {
 }
 
 function Dumplings(props: JSX.IntrinsicElements['group']) {
-  const { nodes, materials } = useGLTF('/gallery/models/dumplings.glb') as GLTFResult
+  const { nodes, materials } = useGLTF('/Hona/models/dumplings.glb') as GLTFResult
   return (
     <group {...props} dispose={null}>
       <group position={[0.066, 2.613, 0.036]}>

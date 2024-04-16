@@ -21,7 +21,7 @@ type GLTFResult = GLTF & {
 }
 
 function Puree(props: JSX.IntrinsicElements['group']) {
-  const { nodes, materials } = useGLTF('/gallery/models/puree.glb') as GLTFResult
+  const { nodes, materials } = useGLTF('/Hona/models/puree.glb') as GLTFResult
   return (
     <group {...props} dispose={null}>
       <group position={[-0.001, 0.014, -0.192]} scale={[2.35, 2.237, 2.35]}>

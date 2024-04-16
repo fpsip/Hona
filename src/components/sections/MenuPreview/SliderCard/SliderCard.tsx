@@ -18,7 +18,7 @@ const SliderCard = ({ id, image, name, compound }: SliderCardProps) => {
       </div>
       <button
         className={styles.expandButton}
-        onClick={() => navigate("/gallery/preview/" + id)}
+        onClick={() => navigate("/Hona/preview/" + id)}
       >
         Рассмотреть!
       </button>
