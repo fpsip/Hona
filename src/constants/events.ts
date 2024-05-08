@@ -35,22 +35,22 @@ const events: CafeEvent[] = [
   {
     id: 7,
     about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, fuga ipsa sapiente aspernatur debitis, illum dicta quasi porro voluptatibus vel ut delectus ad, expedita saepe voluptatem consectetur odio quidem laboriosam.",
-    image: "1.jpg",
+    image: "7.jpg",
   },
   {
     id: 8,
     about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, fuga ipsa sapiente aspernatur debitis, illum dicta quasi porro voluptatibus vel ut delectus ad, expedita saepe voluptatem consectetur odio quidem laboriosam.",
-    image: "1.jpg",
+    image: "8.jpg",
   },
   {
     id: 9,
     about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, fuga ipsa sapiente aspernatur debitis, illum dicta quasi porro voluptatibus vel ut delectus ad, expedita saepe voluptatem consectetur odio quidem laboriosam.",
-    image: "1.jpg",
+    image: "9.jpg",
   },
   {
     id: 10,
     about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, fuga ipsa sapiente aspernatur debitis, illum dicta quasi porro voluptatibus vel ut delectus ad, expedita saepe voluptatem consectetur odio quidem laboriosam.",
-    image: "1.jpg",
+    image: "10.jpg",
   },
 ];
 
