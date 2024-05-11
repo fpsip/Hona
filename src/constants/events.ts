@@ -8,11 +8,6 @@ const events: CafeEvent[] = [
     image: "1.jpg",
   },
   {
-    id: 2,
-    about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, fuga ipsa sapiente aspernatur debitis, illum dicta quasi porro voluptatibus vel ut delectus ad, expedita saepe voluptatem consectetur odio quidem laboriosam.",
-    image: "2.jpg",
-  },
-  {
     id: 3,
     about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, fuga ipsa sapiente aspernatur debitis, illum dicta quasi porro voluptatibus vel ut delectus ad, expedita saepe voluptatem consectetur odio quidem laboriosam.",
     image: "3.jpg",
