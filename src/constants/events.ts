@@ -4,47 +4,47 @@ import { CafeEvent } from "types";
 const events: CafeEvent[] = [
   {
     id: 1,
-    about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, fuga ipsa sapiente aspernatur debitis, illum dicta quasi porro voluptatibus vel ut delectus ad, expedita saepe voluptatem consectetur odio quidem laboriosam.",
+    about: "Кафе “Волшебный замок” создает атмосферу радости, веселья и дружбы, где каждый ребенок чувствует себя особенным и счастливым.",
     image: "1.jpg",
   },
   {
     id: 3,
-    about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, fuga ipsa sapiente aspernatur debitis, illum dicta quasi porro voluptatibus vel ut delectus ad, expedita saepe voluptatem consectetur odio quidem laboriosam.",
+    about: "Можно заказать украшение зала, выбрать аниматора, торт и другие дополнительные услуги. ",
     image: "3.jpg",
   },
   {
     id: 4,
-    about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, fuga ipsa sapiente aspernatur debitis, illum dicta quasi porro voluptatibus vel ut delectus ad, expedita saepe voluptatem consectetur odio quidem laboriosam.",
+    about: "“Волшебный замок” также предлагает услугу празднования дней рождений и других детских праздников с индивидуальным подходом к каждому клиенту. ",
     image: "4.jpg",
   },
   {
     id: 5,
-    about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, fuga ipsa sapiente aspernatur debitis, illum dicta quasi porro voluptatibus vel ut delectus ad, expedita saepe voluptatem consectetur odio quidem laboriosam.",
+    about: "“Волшебный замок” также предлагает услугу празднования дней рождений и других детских праздников с индивидуальным подходом к каждому клиенту. ",
     image: "5.jpg",
   },
   {
     id: 6,
-    about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, fuga ipsa sapiente aspernatur debitis, illum dicta quasi porro voluptatibus vel ut delectus ad, expedita saepe voluptatem consectetur odio quidem laboriosam.",
+    about: "“Волшебный замок” также предлагает услугу празднования дней рождений и других детских праздников с индивидуальным подходом к каждому клиенту. ",
     image: "6.jpg",
   },
   {
     id: 7,
-    about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, fuga ipsa sapiente aspernatur debitis, illum dicta quasi porro voluptatibus vel ut delectus ad, expedita saepe voluptatem consectetur odio quidem laboriosam.",
+    about: "“Волшебный замок” также предлагает услугу празднования дней рождений и других детских праздников с индивидуальным подходом к каждому клиенту. ",
     image: "7.jpg",
   },
   {
     id: 8,
-    about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, fuga ipsa sapiente aspernatur debitis, illum dicta quasi porro voluptatibus vel ut delectus ad, expedita saepe voluptatem consectetur odio quidem laboriosam.",
+    about: "“Волшебный замок” также предлагает услугу празднования дней рождений и других детских праздников с индивидуальным подходом к каждому клиенту. ",
     image: "8.jpg",
   },
   {
     id: 9,
-    about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, fuga ipsa sapiente aspernatur debitis, illum dicta quasi porro voluptatibus vel ut delectus ad, expedita saepe voluptatem consectetur odio quidem laboriosam.",
+    about: "“Волшебный замок” также предлагает услугу празднования дней рождений и других детских праздников с индивидуальным подходом к каждому клиенту. ",
     image: "9.jpg",
   },
   {
     id: 10,
-    about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, fuga ipsa sapiente aspernatur debitis, illum dicta quasi porro voluptatibus vel ut delectus ad, expedita saepe voluptatem consectetur odio quidem laboriosam.",
+    about: "Родители могут отдохнуть в отдельной зоне, наблюдая за своими детьми через большое зеркало или стеклянную стену.",
     image: "10.jpg",
   },
 ];
