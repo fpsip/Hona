@@ -12,13 +12,13 @@ const ReserceForm = ({ submit }: Props) => {
   });
 
   return (
-    <form className={styles.form}>
+    <div className={styles.form}>
       <h1>Заказать звонок</h1>
       <p>Наш менеджер свяжется с вами в течение 15 минут</p>
       <input type="text" placeholder="Ваше имя" />
       <input ref={inputRef} placeholder="Контактный телефон" />
       <Button onClick={submit}>Заказать звонок</Button>
-    </form>
+    </div>
   );
 };
 
