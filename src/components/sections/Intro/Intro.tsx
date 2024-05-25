@@ -10,6 +10,7 @@ const Intro = () => {
     <section className={styles.Intro}>
       <div className={styles.blur} />
       <SectionContent className={styles.content}>
+        <img className={styles.logo} src="logo.png" />
         <div className={styles.label}>{CAFE_NAME}</div>
         <ReserveButton />
       </SectionContent>
