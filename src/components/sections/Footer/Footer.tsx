@@ -24,9 +24,9 @@ const Footer = () => {
           </div>
         <div>
           <h3>Юридические контакты</h3>
-          <p>г. Москва, ул. Тверская, д. XX, 125XXX</p>
+          <p>г. Краснодар, ул. Ставрапольская, д. XX, 125XXX</p>
           <p>magic-castle@example.ru</p>
-          <p>+7 (908) 404-XXXX</p>
+          <p>+7 (918) 404-XXXX</p>
         </div>
       </SectionContent>
     </footer>
