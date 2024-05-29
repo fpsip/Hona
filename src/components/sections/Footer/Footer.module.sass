@@ -1,21 +1,13 @@
-@use "styles/mixins"
-
-
 .Footer
   background-color: #e1e6e3
 
 .content
-  @include mixins.flex-centered
-  flex-direction: column
+  display: flex
+  justify-content: space-between
   gap: 20px
 
-.logo 
-  width: 100px
-  height: 100px
-
-.brand
+.socialMedia
+  margin-top: 10px
   display: flex
-  width: 100%
-  justify-content: space-between
-  align-items: center
-  font-size: 1.5em
+  align-content: center
+  gap: 20px
