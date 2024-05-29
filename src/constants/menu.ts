@@ -3,14 +3,14 @@ import { MenuItem } from "types";
 
 const menu: MenuItem[] = [
   {
-    id: 8,
+    id: 1,
     label: "Шоколадный коктейль",
     compound: "500мл/290руб.",
     price: 249,
     staticPreviewPath: "chok.gif",
   },
   {
-    id: 5,
+    id: 2,
     label: "Желе «Фруктовая Симфония» ",
     compound: "200г/250руб.",
     price: 249,
@@ -24,14 +24,14 @@ const menu: MenuItem[] = [
     staticPreviewPath: "day.gif",
   },
   {
-    id: 7,
+    id: 4,
     label: "Клубничный коктейль",
     compound: "500мл/310руб.",
     price: 249,
     staticPreviewPath: "klubnika.gif",
   },
   {
-    id: 1,
+    id: 5,
     label: "Овощные палочки с соусом блю чиз",
     compound: "300г/380руб.",
     price: 249,
@@ -45,14 +45,14 @@ const menu: MenuItem[] = [
     staticPreviewPath: "pankeiki.gif",
   },
   {
-    id: 2,
+    id: 7,
     label: "Цветные пельмешки",
     compound: "200г/350руб.",
     price: 249,
     staticPreviewPath: "pelmeni.gif",
   },
   {
-    id: 4,
+    id: 8,
     label: "Пюре с окорочком",
     compound: "390г/620руб.",
     price: 249,
