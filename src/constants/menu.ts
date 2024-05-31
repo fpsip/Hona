@@ -18,7 +18,7 @@ const menu: MenuItem[] = [
   },
   {
     id: 3,
-    label: "Пюре с сосисками из говядины",
+    label: "Яичница с сосисками из говядины",
     compound: "260г/299руб.",
     price: 249,
     staticPreviewPath: "day.gif",
