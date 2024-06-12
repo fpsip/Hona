@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/Hona/static/css/main.55b512c7.css",
-    "main.js": "/Hona/static/js/main.1819877d.js",
+    "main.css": "/Hona/static/css/main.2882a896.css",
+    "main.js": "/Hona/static/js/main.fb9b78ef.js",
     "static/media/bg.jpg": "/Hona/static/media/bg.9025d540aff178bdc2b6.jpg",
     "static/media/slick.svg": "/Hona/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Hona/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/Hona/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/ok.svg": "/Hona/static/media/ok.a5b8cf7b96f31ad0a3fd.svg",
     "static/media/slick.woff": "/Hona/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/vk.svg": "/Hona/static/media/vk.19f677d4a368ad0c9794.svg",
     "index.html": "/Hona/index.html",
-    "main.55b512c7.css.map": "/Hona/static/css/main.55b512c7.css.map",
-    "main.1819877d.js.map": "/Hona/static/js/main.1819877d.js.map"
+    "static/media/youtube.svg": "/Hona/static/media/youtube.e936bf40921df01a471f.svg",
+    "main.2882a896.css.map": "/Hona/static/css/main.2882a896.css.map",
+    "main.fb9b78ef.js.map": "/Hona/static/js/main.fb9b78ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.55b512c7.css",
-    "static/js/main.1819877d.js"
+    "static/css/main.2882a896.css",
+    "static/js/main.fb9b78ef.js"
   ]
 }
