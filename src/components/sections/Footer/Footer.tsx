@@ -1,8 +1,3 @@
-import InstagramIcon from '@mui/icons-material/Instagram';
-import XIcon from '@mui/icons-material/X';
-import YouTubeIcon from '@mui/icons-material/YouTube';
-import FacebookIcon from '@mui/icons-material/Facebook';
-
 import { SectionContent } from "components/SectionContent";
 import { CAFE_NAME } from "constants/cafe";
 
@@ -16,10 +11,9 @@ const Footer = () => {
         <div>
           <p>{CAFE_NAME}©. Все права защищены.</p>
           <div className={styles.socialMedia}>
-            <a href="https://yandex.com/" target="_blank"><InstagramIcon /></a>
-            <a href="https://yandex.com/" target="_blank"><XIcon /></a>
-            <a href="https://yandex.com/" target="_blank"><YouTubeIcon /></a>
-            <a href="https://yandex.com/" target="_blank"><FacebookIcon /></a>
+            <a href="https://yandex.com/" target="_blank" className={styles.vk} />
+            <a href="https://yandex.com/" target="_blank" className={styles.ok} />
+            <a href="https://yandex.com/" target="_blank" className={styles.yt}  />
           </div>
           </div>
         <div>
